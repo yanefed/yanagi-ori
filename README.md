@@ -9,4 +9,3 @@ hello it's me
                   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagi-ori&hide=html&layout=compact" /> </td>
       </div>
 </center>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
