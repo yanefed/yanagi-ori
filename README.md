@@ -6,7 +6,7 @@ hello it's me
                   <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanagi-ori&hide=html&hide_border=true&layout=compact" /> 
             </td>
             <td>
-                  <figure><embed src="https://wakatime.com/share/@yanagiori/68851576-dad6-455d-8c2d-c43094f81296.svg"></embed></figure>
+                  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@yanagiori/a5d1575f-f0cb-4487-9911-b08b24001496.png" /></a>
             </td>
       </div>
 </center>
